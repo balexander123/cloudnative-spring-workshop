@@ -21,7 +21,7 @@ Select _File > Import…_. In the susequent dialog choose _Gradle > Existing Gra
 +
 *_Eclipse Import Help_*
 +
-Select _File > Open Projects from File System…_. In the susequent dialog choose Directorry_ button. In the  dialog browse to the _cloud-native-spring_ directory (e.g. _devops-workshop/labs/my_work/cloud-native-spring_) then click the _Open_ button, then click the _Finish_ button.
+Select _File > Import…_. In the susequent dialog choose _Maven > Existing Maven Project_ then click the _Next_ button. In the  _Import Maven Project_ dialog browse to the _cloud-native-spring_ directory (e.g. _devops-workshop/labs/my_work/cloud-native-spring_) then click the _Open_ button, then click the _Finish_ button.
 
 == Add an Endpoint
 
