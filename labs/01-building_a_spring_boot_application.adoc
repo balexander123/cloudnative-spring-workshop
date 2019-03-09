@@ -18,6 +18,11 @@ While we could visit https://start.spring.io to create a new Spring Boot project
 +
 Select _File > Import…_. In the susequent dialog choose _Gradle > Existing Gradle Project_ then click the _Next_ button. In the _Import Gradle Project_ dialog browse to the _cloud-native-spring_ directory (e.g. _devops-workshop/labs/my_work/cloud-native-spring_) then click the _Open_ button, then click the _Finish_ button.
 
++
+*_Eclipse Import Help_*
++
+Select _File > Open Projects from File System…_. In the susequent dialog choose Directorry_ button. In the  dialog browse to the _cloud-native-spring_ directory (e.g. _devops-workshop/labs/my_work/cloud-native-spring_) then click the _Open_ button, then click the _Finish_ button.
+
 == Add an Endpoint
 
 Within your editor/IDE complete the following steps:
